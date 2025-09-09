@@ -36,4 +36,4 @@ const NavigationList = (): JSX.Element => (
   </section>
 );
 
-export { NavigationList };
+export default NavigationList;

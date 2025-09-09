@@ -35,4 +35,4 @@ const OfferCard = (): JSX.Element => (
   </article>
 );
 
-export { OfferCard };
+export default OfferCard;

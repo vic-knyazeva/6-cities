@@ -1,5 +1,5 @@
-import { NavigationList } from '../../components/navigation/navigation-list';
-import { OfferCard } from '../../components/card/offer-card';
+import NavigationList from '../../components/navigation/navigation-list';
+import OfferCard from '../../components/card/offer-card';
 
 type MainProps = {
   offersCount: number;
